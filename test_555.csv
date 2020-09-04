@@ -1,0 +1,267 @@
+﻿ID,Type,SKU,Name,Published,"Is featured?","Visibility in catalog","Short description",Description,"Date sale price starts","Date sale price ends","Tax status","Tax class","In stock?",Stock,"Low stock amount","Backorders allowed?","Sold individually?","Weight (oz)","Length (in)","Width (in)","Height (in)","Allow customer reviews?","Purchase note","Sale price","Regular price",Categories,Tags,"Shipping class",Images,"Download limit","Download expiry days",Parent,"Grouped products",Upsells,Cross-sells,"External URL","Button text",Position
+10,simple,SKU-Test11,"Product 11",1,0,visible,"Product 11 Short description","Product 11 Full description\nProduct 11 Full description\nProduct 11 Full description",,,taxable,,1,11,,0,0,,,,,1,,,111,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/11.jpg,,,,,,,,,0
+12,simple,SKU-Test12,"Product 12",1,0,visible,"Product 12 Short description","Product 12 Full description\nProduct 12 Full description\nProduct 12 Full description",,,taxable,,1,12,,0,0,,,,,1,,,121,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/12.jpg,,,,,,,,,0
+14,simple,SKU-Test13,"Product 13",1,0,visible,"Product 13 Short description","Product 13 Full description\nProduct 13 Full description\nProduct 13 Full description",,,taxable,,1,13,,0,0,,,,,1,,,131,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/13.jpg,,,,,,,,,0
+16,simple,SKU-Test14,"Product 14",1,0,visible,,"Product 14 Full description\nProduct 14 Full description\nProduct 14 Full description",,,taxable,,1,14,,0,0,,,,,1,,11,141,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/14.png,,,,,,,,,0
+18,simple,SKU-Test15,"Product 15",1,0,visible,"Product 15 Short description","Product 15 Full description\nProduct 15 Full description\nProduct 15 Full description",,,taxable,,1,15,,0,0,,,,,1,,12,151,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/21.jpg,,,,,,,,,0
+20,simple,SKU-Test16,"Product 16",1,0,visible,"Product 16 Short description","Product 16 Full description\nProduct 16 Full description\nProduct 16 Full description",,,taxable,,1,16,,0,0,,,,,1,,,161,bells,,,"http://test23.upsite.top/wp-content/uploads/2020/04/22.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/24.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/25.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/27.jpg",,,,,,,,,0
+26,simple,SKU-Test-31,"Plate 31",1,0,visible,"Plate 31 Short description","Plate 31 Full description\nPlate 31 Full description\nPlate 31 Full description",,,taxable,,1,30,,0,0,,,,,1,,,311,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/31.jpg,,,,,,,,,0
+28,simple,SKU-Test-32,"Plate 32",1,0,visible,"Plate 32 Short description","Plate 32 Full description\nPlate 32 Full description\nPlate 32 Full description\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0
+30,simple,,"Plate 33",1,0,visible,"Plate 33 Short description","Plate 33 Full description\nPlate 33 Full description\nPlate 33 Full description\nPlate 33 Full description",,,taxable,,1,33,,0,0,,,,,1,,23,33,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/33.jpg,,,,,,,,,0
+32,simple,,"Plate 34",1,0,visible,"Plate 34 Short description","Plate 34 Full description\nPlate 34 Full description\nPlate 34 Full description\nPlate 34 Full description\n\n",,,taxable,,1,34,,0,0,,,,,1,,24,333,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/34.jpg,,,,,,,,,0
+34,simple,SKU-Test-35,"Plate 35",1,0,visible,"Plate 35 Short description","Plate 35 Full description\nPlate 35 Full description\nPlate 35 Full description\nPlate 35 Full description",,,taxable,,1,35,,0,0,,,,,1,,30,35,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/36.jpg,,,,,,,,,0
+36,simple,,"Plate 36",1,0,visible,"Plate 36 Short description","Plate 36 Full description\nPlate 36 Full description\nPlate 36 Full description\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+136,simple,,"Plate 136",1,0,visible,"Plate 136 Short description","Plate 136 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+128,simple,SKU-Test-132,"Plate 132",1,0,visible,"Plate 132 Short description","Plate 32 Full description
+\nPlate 32 Full description
+\nPlate 32 Full description
+\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0
+212,simple,SKU-Test12,"Product 212",1,0,visible,"Product 212 Short description","Product 12 Full description
+\nProduct 12 Full description
+\nProduct 12 Full description",,,taxable,,1,12,,0,0,,,,,1,,,121,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/12.jpg,,,,,,,,,0
+214,simple,SKU-Test13,"Product 213",1,0,visible,"Product 213 Short description","Product 13 Full description
+\nProduct 13 Full description
+\nProduct 13 Full description",,,taxable,,1,13,,0,0,,,,,1,,,131,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/13.jpg,,,,,,,,,0
+216,simple,SKU-Test14,"Product 214",1,0,visible,,"Product 214 Full description
+\nProduct 14 Full description
+\nProduct 14 Full description",,,taxable,,1,14,,0,0,,,,,1,,11,141,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/14.png,,,,,,,,,0
+218,simple,SKU-Test15,"Product 215",1,0,visible,"Product 215 Short description","Product 15 Full description
+\nProduct 15 Full description
+\nProduct 15 Full description",,,taxable,,1,15,,0,0,,,,,1,,12,151,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/21.jpg,,,,,,,,,0
+220,simple,SKU-Test16,"Product 216",1,0,visible,"Product 216 Short description","Product 16 Full description
+\nProduct 16 Full description
+\nProduct 16 Full description",,,taxable,,1,16,,0,0,,,,,1,,,161,bells,,,"http://test23.upsite.top/wp-content/uploads/2020/04/22.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/24.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/25.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/27.jpg",,,,,,,,,0
+226,simple,SKU-Test-31,"Plate 231",1,0,visible,"Plate 231 Short description","Plate 31 Full description
+\nPlate 31 Full description
+\nPlate 31 Full description",,,taxable,,1,30,,0,0,,,,,1,,,311,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/31.jpg,,,,,,,,,0
+228,simple,SKU-Test-32,"Plate 232",1,0,visible,"Plate 232 Short description","Plate 32 Full description
+\nPlate 32 Full description
+\nPlate 32 Full description
+\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0
+230,simple,,"Plate 33",1,0,visible,"Plate 233 Short description","Plate 233 Full description
+\nPlate 33 Full description
+\nPlate 33 Full description
+\nPlate 33 Full description",,,taxable,,1,33,,0,0,,,,,1,,23,33,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/33.jpg,,,,,,,,,0
+232,simple,,"Plate 234",1,0,visible,"Plate 234 Short description","Plate 34 Full description
+\nPlate 34 Full description
+\nPlate 34 Full description
+\nPlate 34 Full description
+\n
+\n",,,taxable,,1,34,,0,0,,,,,1,,24,333,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/34.jpg,,,,,,,,,0
+234,simple,SKU-Test-235,"Plate 235",1,0,visible,"Plate 35 Short description","Plate 35 Full description
+\nPlate 35 Full description
+\nPlate 35 Full description
+\nPlate 35 Full description",,,taxable,,1,35,,0,0,,,,,1,,30,35,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/36.jpg,,,,,,,,,0
+236,simple,,"Plate 236",1,0,visible,"Plate 236 Short description","Plate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+336,simple,,"Plate 336",1,0,visible,"Plate 336 Short description","Plate 136 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+328,simple,SKU-Test-332,"Plate 332",1,0,visible,"Plate 332 Short description","Plate 32 Full description
+\nPlate 32 Full description
+\nPlate 32 Full description
+\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0
+510,simple,SKU-Test11,"Product 11",1,0,visible,"Product 11 Short description","Product 11 Full description
+\nProduct 11 Full description
+\nProduct 11 Full description",,,taxable,,1,11,,0,0,,,,,1,,,111,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/11.jpg,,,,,,,,,0
+512,simple,SKU-Test12,"Product 12",1,0,visible,"Product 12 Short description","Product 12 Full description
+\nProduct 12 Full description
+\nProduct 12 Full description",,,taxable,,1,12,,0,0,,,,,1,,,121,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/12.jpg,,,,,,,,,0
+514,simple,SKU-Test13,"Product 13",1,0,visible,"Product 13 Short description","Product 13 Full description
+\nProduct 13 Full description
+\nProduct 13 Full description",,,taxable,,1,13,,0,0,,,,,1,,,131,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/13.jpg,,,,,,,,,0
+516,simple,SKU-Test14,"Product 14",1,0,visible,,"Product 14 Full description
+\nProduct 14 Full description
+\nProduct 14 Full description",,,taxable,,1,14,,0,0,,,,,1,,11,141,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/14.png,,,,,,,,,0
+518,simple,SKU-Test15,"Product 15",1,0,visible,"Product 15 Short description","Product 15 Full description
+\nProduct 15 Full description
+\nProduct 15 Full description",,,taxable,,1,15,,0,0,,,,,1,,12,151,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/21.jpg,,,,,,,,,0
+520,simple,SKU-Test16,"Product 16",1,0,visible,"Product 16 Short description","Product 16 Full description
+\nProduct 16 Full description
+\nProduct 16 Full description",,,taxable,,1,16,,0,0,,,,,1,,,161,bells,,,"http://test23.upsite.top/wp-content/uploads/2020/04/22.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/24.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/25.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/27.jpg",,,,,,,,,0
+526,simple,SKU-Test-31,"Plate 31",1,0,visible,"Plate 31 Short description","Plate 31 Full description
+\nPlate 31 Full description
+\nPlate 31 Full description",,,taxable,,1,30,,0,0,,,,,1,,,311,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/31.jpg,,,,,,,,,0
+528,simple,SKU-Test-32,"Plate 32",1,0,visible,"Plate 32 Short description","Plate 32 Full description
+\nPlate 32 Full description
+\nPlate 32 Full description
+\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0
+530,simple,,"Plate 33",1,0,visible,"Plate 33 Short description","Plate 33 Full description
+\nPlate 33 Full description
+\nPlate 33 Full description
+\nPlate 33 Full description",,,taxable,,1,33,,0,0,,,,,1,,23,33,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/33.jpg,,,,,,,,,0
+532,simple,,"Plate 34",1,0,visible,"Plate 34 Short description","Plate 34 Full description
+\nPlate 34 Full description
+\nPlate 34 Full description
+\nPlate 34 Full description
+\n
+\n",,,taxable,,1,34,,0,0,,,,,1,,24,333,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/34.jpg,,,,,,,,,0
+534,simple,SKU-Test-35,"Plate 35",1,0,visible,"Plate 35 Short description","Plate 35 Full description
+\nPlate 35 Full description
+\nPlate 35 Full description
+\nPlate 35 Full description",,,taxable,,1,35,,0,0,,,,,1,,30,35,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/36.jpg,,,,,,,,,0
+536,simple,,"Plate 36",1,0,visible,"Plate 36 Short description","Plate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+5136,simple,,"Plate 136",1,0,visible,"Plate 136 Short description","Plate 136 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+5128,simple,SKU-Test-132,"Plate 132",1,0,visible,"Plate 132 Short description","Plate 32 Full description
+\nPlate 32 Full description
+\nPlate 32 Full description
+\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0
+5212,simple,SKU-Test12,"Product 212",1,0,visible,"Product 212 Short description","Product 12 Full description
+\nProduct 12 Full description
+\nProduct 12 Full description",,,taxable,,1,12,,0,0,,,,,1,,,121,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/12.jpg,,,,,,,,,0
+5214,simple,SKU-Test13,"Product 213",1,0,visible,"Product 213 Short description","Product 13 Full description
+\nProduct 13 Full description
+\nProduct 13 Full description",,,taxable,,1,13,,0,0,,,,,1,,,131,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/13.jpg,,,,,,,,,0
+5216,simple,SKU-Test14,"Product 214",1,0,visible,,"Product 214 Full description
+\nProduct 14 Full description
+\nProduct 14 Full description",,,taxable,,1,14,,0,0,,,,,1,,11,141,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/14.png,,,,,,,,,0
+5218,simple,SKU-Test15,"Product 215",1,0,visible,"Product 215 Short description","Product 15 Full description
+\nProduct 15 Full description
+\nProduct 15 Full description",,,taxable,,1,15,,0,0,,,,,1,,12,151,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/21.jpg,,,,,,,,,0
+5220,simple,SKU-Test16,"Product 216",1,0,visible,"Product 216 Short description","Product 16 Full description
+\nProduct 16 Full description
+\nProduct 16 Full description",,,taxable,,1,16,,0,0,,,,,1,,,161,bells,,,"http://test23.upsite.top/wp-content/uploads/2020/04/22.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/24.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/25.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/27.jpg",,,,,,,,,0
+5226,simple,SKU-Test-31,"Plate 231",1,0,visible,"Plate 231 Short description","Plate 31 Full description
+\nPlate 31 Full description
+\nPlate 31 Full description",,,taxable,,1,30,,0,0,,,,,1,,,311,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/31.jpg,,,,,,,,,0
+5228,simple,SKU-Test-32,"Plate 232",1,0,visible,"Plate 232 Short description","Plate 32 Full description
+\nPlate 32 Full description
+\nPlate 32 Full description
+\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0
+5230,simple,,"Plate 33",1,0,visible,"Plate 233 Short description","Plate 233 Full description
+\nPlate 33 Full description
+\nPlate 33 Full description
+\nPlate 33 Full description",,,taxable,,1,33,,0,0,,,,,1,,23,33,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/33.jpg,,,,,,,,,0
+5232,simple,,"Plate 234",1,0,visible,"Plate 234 Short description","Plate 34 Full description
+\nPlate 34 Full description
+\nPlate 34 Full description
+\nPlate 34 Full description
+\n
+\n",,,taxable,,1,34,,0,0,,,,,1,,24,333,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/34.jpg,,,,,,,,,0
+5234,simple,SKU-Test-235,"Plate 235",1,0,visible,"Plate 35 Short description","Plate 35 Full description
+\nPlate 35 Full description
+\nPlate 35 Full description
+\nPlate 35 Full description",,,taxable,,1,35,,0,0,,,,,1,,30,35,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/36.jpg,,,,,,,,,0
+5236,simple,,"Plate 236",1,0,visible,"Plate 236 Short description","Plate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+5336,simple,,"Plate 336",1,0,visible,"Plate 336 Short description","Plate 136 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+5328,simple,SKU-Test-332,"Plate 332",1,0,visible,"Plate 332 Short description","Plate 32 Full description
+\nPlate 32 Full description
+\nPlate 32 Full description
+\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0
+710,simple,SKU-Test11,"Product 11",1,0,visible,"Product 11 Short description","Product 11 Full description
+\nProduct 11 Full description
+\nProduct 11 Full description",,,taxable,,1,11,,0,0,,,,,1,,,111,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/11.jpg,,,,,,,,,0
+712,simple,SKU-Test12,"Product 12",1,0,visible,"Product 12 Short description","Product 12 Full description
+\nProduct 12 Full description
+\nProduct 12 Full description",,,taxable,,1,12,,0,0,,,,,1,,,121,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/12.jpg,,,,,,,,,0
+714,simple,SKU-Test13,"Product 13",1,0,visible,"Product 13 Short description","Product 13 Full description
+\nProduct 13 Full description
+\nProduct 13 Full description",,,taxable,,1,13,,0,0,,,,,1,,,131,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/13.jpg,,,,,,,,,0
+716,simple,SKU-Test14,"Product 14",1,0,visible,,"Product 14 Full description
+\nProduct 14 Full description
+\nProduct 14 Full description",,,taxable,,1,14,,0,0,,,,,1,,11,141,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/14.png,,,,,,,,,0
+718,simple,SKU-Test15,"Product 15",1,0,visible,"Product 15 Short description","Product 15 Full description
+\nProduct 15 Full description
+\nProduct 15 Full description",,,taxable,,1,15,,0,0,,,,,1,,12,151,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/21.jpg,,,,,,,,,0
+720,simple,SKU-Test16,"Product 16",1,0,visible,"Product 16 Short description","Product 16 Full description
+\nProduct 16 Full description
+\nProduct 16 Full description",,,taxable,,1,16,,0,0,,,,,1,,,161,bells,,,"http://test23.upsite.top/wp-content/uploads/2020/04/22.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/24.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/25.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/27.jpg",,,,,,,,,0
+726,simple,SKU-Test-31,"Plate 31",1,0,visible,"Plate 31 Short description","Plate 31 Full description
+\nPlate 31 Full description
+\nPlate 31 Full description",,,taxable,,1,30,,0,0,,,,,1,,,311,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/31.jpg,,,,,,,,,0
+728,simple,SKU-Test-32,"Plate 32",1,0,visible,"Plate 32 Short description","Plate 32 Full description
+\nPlate 32 Full description
+\nPlate 32 Full description
+\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0
+730,simple,,"Plate 33",1,0,visible,"Plate 33 Short description","Plate 33 Full description
+\nPlate 33 Full description
+\nPlate 33 Full description
+\nPlate 33 Full description",,,taxable,,1,33,,0,0,,,,,1,,23,33,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/33.jpg,,,,,,,,,0
+732,simple,,"Plate 34",1,0,visible,"Plate 34 Short description","Plate 34 Full description
+\nPlate 34 Full description
+\nPlate 34 Full description
+\nPlate 34 Full description
+\n
+\n",,,taxable,,1,34,,0,0,,,,,1,,24,333,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/34.jpg,,,,,,,,,0
+734,simple,SKU-Test-35,"Plate 35",1,0,visible,"Plate 35 Short description","Plate 35 Full description
+\nPlate 35 Full description
+\nPlate 35 Full description
+\nPlate 35 Full description",,,taxable,,1,35,,0,0,,,,,1,,30,35,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/36.jpg,,,,,,,,,0
+736,simple,,"Plate 36",1,0,visible,"Plate 36 Short description","Plate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+7136,simple,,"Plate 136",1,0,visible,"Plate 136 Short description","Plate 136 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+7128,simple,SKU-Test-132,"Plate 132",1,0,visible,"Plate 132 Short description","Plate 32 Full description
+\nPlate 32 Full description
+\nPlate 32 Full description
+\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0
+7212,simple,SKU-Test12,"Product 212",1,0,visible,"Product 212 Short description","Product 12 Full description
+\nProduct 12 Full description
+\nProduct 12 Full description",,,taxable,,1,12,,0,0,,,,,1,,,121,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/12.jpg,,,,,,,,,0
+7214,simple,SKU-Test13,"Product 213",1,0,visible,"Product 213 Short description","Product 13 Full description
+\nProduct 13 Full description
+\nProduct 13 Full description",,,taxable,,1,13,,0,0,,,,,1,,,131,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/13.jpg,,,,,,,,,0
+7216,simple,SKU-Test14,"Product 214",1,0,visible,,"Product 214 Full description
+\nProduct 14 Full description
+\nProduct 14 Full description",,,taxable,,1,14,,0,0,,,,,1,,11,141,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/14.png,,,,,,,,,0
+7218,simple,SKU-Test15,"Product 215",1,0,visible,"Product 215 Short description","Product 15 Full description
+\nProduct 15 Full description
+\nProduct 15 Full description",,,taxable,,1,15,,0,0,,,,,1,,12,151,bells,,,http://test23.upsite.top/wp-content/uploads/2020/04/21.jpg,,,,,,,,,0
+7220,simple,SKU-Test16,"Product 216",1,0,visible,"Product 216 Short description","Product 16 Full description
+\nProduct 16 Full description
+\nProduct 16 Full description",,,taxable,,1,16,,0,0,,,,,1,,,161,bells,,,"http://test23.upsite.top/wp-content/uploads/2020/04/22.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/24.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/25.jpg, http://test23.upsite.top/wp-content/uploads/2020/04/27.jpg",,,,,,,,,0
+7226,simple,SKU-Test-31,"Plate 231",1,0,visible,"Plate 231 Short description","Plate 31 Full description
+\nPlate 31 Full description
+\nPlate 31 Full description",,,taxable,,1,30,,0,0,,,,,1,,,311,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/31.jpg,,,,,,,,,0
+7228,simple,SKU-Test-32,"Plate 232",1,0,visible,"Plate 232 Short description","Plate 32 Full description
+\nPlate 32 Full description
+\nPlate 32 Full description
+\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0
+7230,simple,,"Plate 33",1,0,visible,"Plate 233 Short description","Plate 233 Full description
+\nPlate 33 Full description
+\nPlate 33 Full description
+\nPlate 33 Full description",,,taxable,,1,33,,0,0,,,,,1,,23,33,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/33.jpg,,,,,,,,,0
+7232,simple,,"Plate 234",1,0,visible,"Plate 234 Short description","Plate 34 Full description
+\nPlate 34 Full description
+\nPlate 34 Full description
+\nPlate 34 Full description
+\n
+\n",,,taxable,,1,34,,0,0,,,,,1,,24,333,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/34.jpg,,,,,,,,,0
+7234,simple,SKU-Test-235,"Plate 235",1,0,visible,"Plate 35 Short description","Plate 35 Full description
+\nPlate 35 Full description
+\nPlate 35 Full description
+\nPlate 35 Full description",,,taxable,,1,35,,0,0,,,,,1,,30,35,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/36.jpg,,,,,,,,,0
+7236,simple,,"Plate 236",1,0,visible,"Plate 236 Short description","Plate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+7336,simple,,"Plate 336",1,0,visible,"Plate 336 Short description","Plate 136 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description
+\nPlate 36 Full description",,,taxable,,1,,,0,0,,,,,1,,,36,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/35..jpg,,,,,,,,,0
+7328,simple,SKU-Test-332,"Plate 332",1,0,visible,"Plate 332 Short description","Plate 32 Full description
+\nPlate 32 Full description
+\nPlate 32 Full description
+\n",,,taxable,,1,30,,0,0,,,,,1,,,322,plates,,,http://test23.upsite.top/wp-content/uploads/2020/04/32.jpg,,,,,,,,,0

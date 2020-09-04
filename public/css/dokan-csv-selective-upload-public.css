@@ -1,0 +1,65 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.dkn-products-listing-wrap {
+	margin-left: 12px;
+	width: 100%;
+}
+.dkn-synchronise-button-block {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.dkn-buttons-wrap {
+	display: flex;
+    justify-content: space-between;
+	padding: 10px;
+	background: #eeeeee;
+}
+.dkn-product-import-all-block {
+	margin-right: 10px;
+}
+.dkn-products-table {
+	width: 800px;
+	margin-top: 10px;
+}
+.dkn-link {
+	cursor: pointer;
+}
+.dkn-product-add {
+	color: blue;
+}
+.dkn-pagination {
+	text-align: center;
+}
+@media screen and (max-width: 1200px) {
+	.dkn-products-table {
+		width: 600px;
+	}
+}
+
+@media screen and (max-width: 1023px) {
+	.dkn-products-table {
+		width: 100%;
+	}
+}
+/*************************************************************
+ 					# Notices #
+ ************************************************************/
+.dkn-products-notices {
+	width: 100%;
+    min-height: 40px;
+    background: #eeeeee;
+    margin-bottom: 20px;
+	padding: 10px;
+}
+.dkn-products-notices-message {
+	font-weight: 600;
+}
+.dkn-hidden {
+	display: none;
+}
+.dkn-products-load-image img {
+	height: 50px;
+}
